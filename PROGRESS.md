@@ -5,3 +5,4 @@
 | 4 | merged :white_check_mark: |
 | 5 | merged :white_check_mark: |
 | 6 | merged :white_check_mark: |
+| 7 | merged :white_check_mark: |
