@@ -7,3 +7,4 @@
 | 6 | merged :white_check_mark: |
 | 7 | merged :white_check_mark: |
 | 8 | merged :white_check_mark: |
+| 9 | merged :white_check_mark: |
